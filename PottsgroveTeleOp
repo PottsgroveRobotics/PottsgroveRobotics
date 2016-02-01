@@ -11,7 +11,7 @@ import com.qualcomm.robotcore.util.Range;
  * Enables control of the robot via the gamepad
  */
 public class PottsgroveTeleOp extends OpMode {
-	//hello Eric
+	//hello there
     /*
      * Note: the configuration of the servos is such that
      * as the arm servo approaches 0, the arm position moves up (away from the floor).
